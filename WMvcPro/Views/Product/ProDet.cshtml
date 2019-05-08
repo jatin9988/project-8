@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "ProDet";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Product Listing</h2>
+
+<div align="left">
+    
+    @foreach (var Prod in ViewBag.listproducts)
+    {
+        <div class="col-lg-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><i class="glyphicon glyphicon-user"></i> &nbsp;@Prod.ProductName</h3>
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label>Description:  </label>
+                        </div>
+                        <div class="col-md-3 ">
+                            @Prod.ProductDes
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label> Price: </label>
+                        </div>
+                        <div class="col-md-3">
+                            @Prod.ListPrice
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label>Seller Name: </label>
+                        </div>
+                        <div class="col-md-4">
+                            @Prod.SellerName
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label> Mobile: </label>
+                        </div>
+                        <div class="col-md-4">
+                            @Prod.SellerMobileNo
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label>Email: </label>
+                        </div>
+                        <div class="col-md-4">
+                            @Prod.SellerEmail
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+    }
+</div>

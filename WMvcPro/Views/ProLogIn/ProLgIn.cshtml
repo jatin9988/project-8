@@ -1,0 +1,51 @@
+﻿@model WMvcPro.ViewModel.ProLgInViewModel
+@{
+    ViewBag.Title = "ProLgIn";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>LogIn</h2>
+
+<div align="left">
+    @using (Html.BeginForm("ProLgIn", "ProLogIn", FormMethod.Post))
+    {
+    <table class="table" style="width:50%;">
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.proLogIn.UserName)
+            </td>
+
+            <td>
+                @Html.TextBoxFor(model => model.proLogIn.UserName)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.proLogIn.Password)
+            </td>
+
+            <td>
+                @Html.PasswordFor(model => model.proLogIn.Password)
+            </td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Submit" class="btn-primary" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" class="text-center">
+                @if (TempData["Error"] != null)
+                {
+                   var err= TempData["Error"].ToString();
+                    @err;
+                }
+            </td>
+        </tr>
+    </table>
+    }
+</div>
+
+

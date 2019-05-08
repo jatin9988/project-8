@@ -1,0 +1,77 @@
+﻿@model WMvcPro.ViewModel.ProductViewModel
+@{
+    ViewBag.Title = "ProCre";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Create</h2>
+
+<div align="center">
+    @using (Html.BeginForm("ProCre", "Product", FormMethod.Post))
+    {
+        <table class="table">
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.ProductName)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.ProductName)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.ProductDes)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.ProductDes)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.ListPrice)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.ListPrice)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.SellerName)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.SellerName)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.SellerMobileNo)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.SellerMobileNo)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.SellerEmail)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.SellerEmail)
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+
+                <td>
+                    <input type="submit" value="Save" class="btn-primary" />
+                </td>
+            </tr>
+        </table>
+    }
+</div>
+

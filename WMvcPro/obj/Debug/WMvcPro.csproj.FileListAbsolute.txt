@@ -1,0 +1,327 @@
+E:\projects\nz\WebApiPro\WMvcPro\bin\WMvcPro.dll.config
+E:\projects\nz\WebApiPro\WMvcPro\bin\WMvcPro.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\WMvcPro.pdb
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\csc.exe
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\csc.exe.config
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\csc.rsp
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\csi.exe
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\csi.exe.config
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\csi.rsp
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.AppContext.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Collections.Immutable.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Console.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.Compression.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.FileSystem.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.Pipes.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Reflection.Metadata.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.AccessControl.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Claims.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Principal.Windows.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.ValueTuple.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XPath.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\vbc.exe
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\vbc.exe.config
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\vbc.rsp
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\VBCSCompiler.exe
+E:\projects\nz\WebApiPro\WMvcPro\bin\roslyn\VBCSCompiler.exe.config
+E:\projects\nz\WebApiPro\WMvcPro\bin\Antlr3.Runtime.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\EntityFramework.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\EntityFramework.SqlServer.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\Newtonsoft.Json.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Net.Http.Formatting.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.Helpers.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.Mvc.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.Optimization.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.Razor.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.Deployment.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.Razor.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\WebGrease.dll
+E:\projects\nz\WebApiPro\WMvcPro\bin\EntityFramework.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\EntityFramework.SqlServer.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Net.Http.Formatting.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.Helpers.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.Mvc.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.Optimization.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.Razor.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.Deployment.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.Razor.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\Newtonsoft.Json.xml
+E:\projects\nz\WebApiPro\WMvcPro\bin\Antlr3.Runtime.pdb
+E:\projects\nz\WebApiPro\WMvcPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\projects\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csprojAssemblyReference.cache
+E:\projects\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csproj.CoreCompileInputs.cache
+E:\projects\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csproj.CopyComplete
+E:\projects\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.dll
+E:\projects\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.pdb
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\WMvcPro.dll.config
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\WMvcPro.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\WMvcPro.pdb
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\csc.exe
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\csc.exe.config
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\csc.rsp
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\csi.exe
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\csi.exe.config
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\csi.rsp
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.Managed.Core.targets
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.AppContext.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Collections.Immutable.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Console.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.Compression.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.FileSystem.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.IO.Pipes.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Reflection.Metadata.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.AccessControl.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Claims.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Security.Principal.Windows.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.ValueTuple.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Xml.ReaderWriter.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XmlDocument.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XPath.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\vbc.exe
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\vbc.exe.config
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\vbc.rsp
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\VBCSCompiler.exe
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\roslyn\VBCSCompiler.exe.config
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\Antlr3.Runtime.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\EntityFramework.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\EntityFramework.SqlServer.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\Microsoft.Web.Infrastructure.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\Newtonsoft.Json.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Net.Http.Formatting.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.Helpers.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.Mvc.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.Optimization.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.Razor.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.Deployment.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.Razor.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\WebGrease.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\EntityFramework.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\EntityFramework.SqlServer.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Net.Http.Formatting.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.Helpers.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.Mvc.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.Optimization.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.Razor.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.Deployment.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\System.Web.WebPages.Razor.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\Newtonsoft.Json.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\Antlr3.Runtime.pdb
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csprojAssemblyReference.cache
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csproj.CoreCompileInputs.cache
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csproj.CopyComplete
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.dll
+\\mohtechkuldeep\nz\WebApiPro\WMvcPro\obj\Debug\WMvcPro.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\WMvcPro.dll.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\WMvcPro.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\WMvcPro.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\csc.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\csc.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\csc.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\csi.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\csi.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\csi.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.AppContext.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Console.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.IO.Compression.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.IO.Pipes.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Security.Claims.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.ValueTuple.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XPath.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\vbc.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\vbc.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\vbc.rsp
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\VBCSCompiler.exe
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\Antlr3.Runtime.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\EntityFramework.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\EntityFramework.SqlServer.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\Newtonsoft.Json.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Net.Http.Formatting.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.Helpers.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.Mvc.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.Optimization.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.Razor.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.WebPages.Deployment.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.WebPages.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.WebPages.Razor.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\WebGrease.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\EntityFramework.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\EntityFramework.SqlServer.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Net.Http.Formatting.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.Helpers.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.Mvc.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.Optimization.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.Razor.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.WebPages.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.WebPages.Deployment.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\System.Web.WebPages.Razor.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\Newtonsoft.Json.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\Antlr3.Runtime.pdb
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csprojAssemblyReference.cache
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csproj.CoreCompileInputs.cache
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csproj.CopyComplete
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\obj\Debug\WMvcPro.dll
+E:\Projects_VS2012\TCIS\NZ_PROJ\NewStudents\V1\WebApiPro\WMvcPro\obj\Debug\WMvcPro.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\WMvcPro.dll.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\WMvcPro.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\WMvcPro.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\csc.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\csc.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\csc.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\csi.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\csi.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\csi.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.AppContext.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Console.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\vbc.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\vbc.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\vbc.rsp
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\Antlr3.Runtime.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\EntityFramework.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\EntityFramework.SqlServer.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\Newtonsoft.Json.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.Helpers.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.Mvc.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.Optimization.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.Razor.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.WebPages.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\WebGrease.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\EntityFramework.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\EntityFramework.SqlServer.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Net.Http.Formatting.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.Helpers.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.Mvc.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.Optimization.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.Razor.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.WebPages.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\Newtonsoft.Json.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\Antlr3.Runtime.pdb
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csprojAssemblyReference.cache
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csproj.CoreCompileInputs.cache
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\obj\Debug\WMvcPro.csproj.CopyComplete
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\obj\Debug\WMvcPro.dll
+C:\Users\Rupinder Singh Com\Desktop\WebApiPro\WMvcPro\obj\Debug\WMvcPro.pdb

@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "ProInd";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Product Details</h2>
+
+<div align="left">
+    @Html.ActionLink("Create", "ProCre", "Product", new { area = "" }, null)
+    <br /><br />
+    <table cellpadding="2"
+           class="table"
+           cellspacing="2"
+           border="1">
+        <tr class="btn-primary">
+            <th> Product Name</th>
+            <th> Product Description</th>
+            <th> List Price</th>
+            <th> Seller Name</th>
+            <th> Seller MobileNo</th>
+            <th>Seller Email</th>
+            <th> Action</th>
+        </tr>
+        @foreach (var Prod in ViewBag.listproducts)
+        {
+            <tr class="btn-success">
+
+                <td>
+                    @Prod.ProductName
+                </td>
+                <td>
+                    @Prod.ProductDes
+                </td>
+                <td>
+                    @Prod.ListPrice
+                </td>
+                <td>
+                    @Prod.SellerName
+                </td>
+                <td>
+                    @Prod.SellerMobileNo
+                </td>
+                <td>
+                    @Prod.SellerEmail
+                </td>
+                <td>
+                    <a onclick="return confirm('Do you want to Delete?')"
+                       href="@Url.Action("ProDel","Product",new {id= Prod.ProductId})">Delete</a> ||
+                    <a href="@Url.Action("ProEdt","Product",new {id= Prod.ProductId})">Edit</a>
+                </td>
+
+            </tr>
+        }
+    </table>
+</div>
+
+

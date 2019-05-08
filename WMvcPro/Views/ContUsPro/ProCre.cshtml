@@ -1,0 +1,50 @@
+﻿@model WMvcPro.ViewModel.ProCntUsViewModel
+@{
+    ViewBag.Title = "ProCre";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Contact Us</h2>
+
+<div align="left">
+    @using (Html.BeginForm("ProCre", "ContUsPro", FormMethod.Post))
+    {
+        <table class="table" style="width:50%;">
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.proContUs.Name)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.proContUs.Name)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.proContUs.Email)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.proContUs.Email)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.proContUs.Message)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.proContUs.Message)
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <input type="submit" value="Save" class="btn-primary" />
+                </td>
+            </tr>
+        </table>
+    }
+</div>
+
+

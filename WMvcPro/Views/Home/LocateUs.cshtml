@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "LocateUs";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Locate Us</h2>
+
+<p class="fh5co-sub to-animate"><b>25 Springs Road, East Tamaki, Auckland, New Zealand.</b></p><br/>
+<div id="map_canvas" style="width: 100%; height: 450px;"></div>
+
+
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCc95qD90GRQ1DAp1Ugc00Ni3LvNv3jzsA&callback=myMap"></script>
+<script>
+    function myMap() {
+        var map_canvas = document.getElementById('map_canvas');
+        var map_options = {
+            center: new google.maps.LatLng(-36.950275, 174.892360),
+            zoom: 16,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        }
+        var map = new google.maps.Map(map_canvas, map_options)
+        var myLatlng = new google.maps.LatLng(-36.950275, 174.892360);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: '25 Springs Road, East Tamaki, Auckland, New Zealand'
+        });
+
+    }
+    google.maps.event.addDomListener(window, 'load', myMap);
+</script>
+
+

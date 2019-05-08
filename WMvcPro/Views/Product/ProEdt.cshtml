@@ -1,0 +1,80 @@
+﻿@model WMvcPro.ViewModel.ProductViewModel
+@{
+    ViewBag.Title = "ProEdt";
+    Layout = "~/Views/Shared/_InnerPage.cshtml";
+}
+
+<h2>Edit</h2>
+
+<div align="center" width="500px">
+    @using (Html.BeginForm("ProEdt", "Product", FormMethod.Post))
+    {
+        <table class="table"
+               width="400px"
+               cellpadding="20">
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.ProductName)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.ProductName)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.ProductDes)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.ProductDes)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.ListPrice)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.ListPrice)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.SellerName)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.SellerName)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.SellerMobileNo)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.SellerMobileNo)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.LabelFor(model => model.product.SellerEmail)
+                </td>
+
+                <td>
+                    @Html.TextBoxFor(model => model.product.SellerEmail)
+                </td>
+            </tr>
+            <tr>
+                <td> </td>
+
+                <td>
+                    <input type="submit" value="Save" class="btn-primary" /> &nbsp; <a class="btn-primary" style="padding:5px;" href="@Url.Action("ProInd","Product")"> Back </a>
+                    @Html.HiddenFor(model => model.product.ProductId)
+                </td>
+            </tr>
+        </table>
+    }
+</div>
+
